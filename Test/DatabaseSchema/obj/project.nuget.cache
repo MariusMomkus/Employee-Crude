@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i0KQ7ODGrIEYkCtQDcZ9cRQKguFxhXnPTRsi2gMJnqDHRwsGtbTMewXc32FCpC4zNi7bFk3oaIQ0tSfFebkxjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marius Momkus\\Desktop\\Tasks\\UVS-NET-TASK\\Test\\DatabaseSchema\\DatabaseSchema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marius Momkus\\.nuget\\packages\\npgsql\\6.0.0\\npgsql.6.0.0.nupkg.sha512",
+    "C:\\Users\\Marius Momkus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

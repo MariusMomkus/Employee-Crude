@@ -1,0 +1,17 @@
+C:\Users\Marius Momkus\Desktop\Tasks\UVS-NET-TASK\Test\DatabaseSchema\bin\Debug\net6.0\DatabaseSchema.exe
+C:\Users\Marius Momkus\Desktop\Tasks\UVS-NET-TASK\Test\DatabaseSchema\bin\Debug\net6.0\DatabaseSchema.deps.json
+C:\Users\Marius Momkus\Desktop\Tasks\UVS-NET-TASK\Test\DatabaseSchema\bin\Debug\net6.0\DatabaseSchema.runtimeconfig.json
+C:\Users\Marius Momkus\Desktop\Tasks\UVS-NET-TASK\Test\DatabaseSchema\bin\Debug\net6.0\DatabaseSchema.dll
+C:\Users\Marius Momkus\Desktop\Tasks\UVS-NET-TASK\Test\DatabaseSchema\bin\Debug\net6.0\DatabaseSchema.pdb
+C:\Users\Marius Momkus\Desktop\Tasks\UVS-NET-TASK\Test\DatabaseSchema\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Marius Momkus\Desktop\Tasks\UVS-NET-TASK\Test\DatabaseSchema\obj\Debug\net6.0\DatabaseSchema.csproj.AssemblyReference.cache
+C:\Users\Marius Momkus\Desktop\Tasks\UVS-NET-TASK\Test\DatabaseSchema\obj\Debug\net6.0\DatabaseSchema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marius Momkus\Desktop\Tasks\UVS-NET-TASK\Test\DatabaseSchema\obj\Debug\net6.0\DatabaseSchema.AssemblyInfoInputs.cache
+C:\Users\Marius Momkus\Desktop\Tasks\UVS-NET-TASK\Test\DatabaseSchema\obj\Debug\net6.0\DatabaseSchema.AssemblyInfo.cs
+C:\Users\Marius Momkus\Desktop\Tasks\UVS-NET-TASK\Test\DatabaseSchema\obj\Debug\net6.0\DatabaseSchema.csproj.CoreCompileInputs.cache
+C:\Users\Marius Momkus\Desktop\Tasks\UVS-NET-TASK\Test\DatabaseSchema\obj\Debug\net6.0\Database.C92730F0.Up2Date
+C:\Users\Marius Momkus\Desktop\Tasks\UVS-NET-TASK\Test\DatabaseSchema\obj\Debug\net6.0\DatabaseSchema.dll
+C:\Users\Marius Momkus\Desktop\Tasks\UVS-NET-TASK\Test\DatabaseSchema\obj\Debug\net6.0\refint\DatabaseSchema.dll
+C:\Users\Marius Momkus\Desktop\Tasks\UVS-NET-TASK\Test\DatabaseSchema\obj\Debug\net6.0\DatabaseSchema.pdb
+C:\Users\Marius Momkus\Desktop\Tasks\UVS-NET-TASK\Test\DatabaseSchema\obj\Debug\net6.0\DatabaseSchema.genruntimeconfig.cache
+C:\Users\Marius Momkus\Desktop\Tasks\UVS-NET-TASK\Test\DatabaseSchema\obj\Debug\net6.0\ref\DatabaseSchema.dll
